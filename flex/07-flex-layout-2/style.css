@@ -53,10 +53,9 @@ body {
 }
 
 .card {
-  height: 300px;
   width: 300px;
-  margin: 20px;
-  padding: 10px;
+  margin: 16px;
+  padding: 16px;
 }
 
 ul {
